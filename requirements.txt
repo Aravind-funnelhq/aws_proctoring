@@ -1,0 +1,7 @@
+Flask
+opencv-python
+mediapipe
+numpy
+mysql-connector-python
+pymysql
+boto3
